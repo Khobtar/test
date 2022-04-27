@@ -135,6 +135,10 @@ margin-left: 15px;
     body {
         font-size: 10px;
     } 
+      .technical_data {
+    font-size: 10px;
+    padding-left: 10px;
+    padding-top: 0px;
     .row {
         display: block;
     }
